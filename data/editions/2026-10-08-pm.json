@@ -1,0 +1,473 @@
+{
+  "id": "2026-10-08-pm",
+  "summary": "삼성전자 깜짝 실적에도 코스피 2.6% 급락. 美 10년물 5.3%대와 브렌트 104달러 부담에 아시아·유럽 증시가 함께 밀렸다.",
+  "published_at": "2026-10-08T18:00:00+09:00",
+  "ticker": [
+    {
+      "k": "코스피",
+      "v": "6,625.93",
+      "chg": "▼2.62%",
+      "dir": "dn"
+    },
+    {
+      "k": "코스닥",
+      "v": "892.27",
+      "chg": "▼0.69%",
+      "dir": "dn"
+    },
+    {
+      "k": "원/달러",
+      "v": "1,338.5",
+      "chg": "▼1.9원",
+      "dir": "dn"
+    },
+    {
+      "k": "닛케이",
+      "v": "69,042.11",
+      "chg": "▼1.42%",
+      "dir": "dn"
+    },
+    {
+      "k": "상하이",
+      "v": "3,811.90",
+      "chg": "▼0.8%",
+      "dir": "dn"
+    },
+    {
+      "k": "항셍",
+      "v": "23,809.66",
+      "chg": "▼1.3%",
+      "dir": "dn"
+    },
+    {
+      "k": "STOXX600",
+      "v": "장중",
+      "chg": "▼0.99%",
+      "dir": "dn"
+    },
+    {
+      "k": "S&P500 선물",
+      "v": "7,825.00",
+      "chg": "▼0.35%",
+      "dir": "dn"
+    },
+    {
+      "k": "나스닥 선물",
+      "v": "31,227.75",
+      "chg": "▼0.56%",
+      "dir": "dn"
+    },
+    {
+      "k": "다우 선물",
+      "v": "51,108",
+      "chg": "▼0.66%",
+      "dir": "dn"
+    },
+    {
+      "k": "美10년물",
+      "v": "5.3% 안팎"
+    },
+    {
+      "k": "브렌트유",
+      "v": "$104.2",
+      "chg": "▲약 4%",
+      "dir": "up"
+    },
+    {
+      "k": "WTI",
+      "v": "$91.7",
+      "chg": "▲3.9%",
+      "dir": "up"
+    },
+    {
+      "k": "금",
+      "v": "$4,145",
+      "chg": "▲0.11%",
+      "dir": "up"
+    },
+    {
+      "k": "비트코인",
+      "v": "$82,888",
+      "chg": "▼1.23%",
+      "dir": "dn"
+    }
+  ],
+  "lead": {
+    "cat": "kr",
+    "time": "10월 8일 마감",
+    "title": "삼성전자 영업익 107조 '깜짝'에도… 코스피 2.6% 급락, 6,620선",
+    "dek": "사상 최대 실적이 나왔지만 美 국채금리와 유가 급등 부담이 더 컸다. 외국인과 기관이 합쳐 2조 7천억 원어치를 던졌고 개인이 홀로 받아냈다.",
+    "chips": [
+      {
+        "k": "코스피",
+        "v": "▼2.62%",
+        "dir": "dn"
+      },
+      {
+        "k": "코스닥",
+        "v": "▼0.69%",
+        "dir": "dn"
+      },
+      {
+        "k": "원/달러",
+        "v": "▼1.9원",
+        "dir": "dn"
+      },
+      {
+        "k": "삼성전자",
+        "v": "▼2.42%",
+        "dir": "dn"
+      }
+    ],
+    "body": [
+      "코스피는 177.97포인트 내린 6,625.93으로 장을 마쳤다. 외국인이 약 1조 5,600억 원, 기관이 약 1조 1,600억 원을 순매도했고 개인은 2조 6,800억 원가량 순매수했다. 외국인 매도는 나흘째다.",
+      "삼성전자는 3분기 잠정 영업이익 107조 원대를 발표한 뒤 장중 27만 원까지 올랐다가 2.42% 내린 26만 2,000원에 끝났다. SK하이닉스(-2.44%), LG에너지솔루션(-2.85%), 현대차(-1.95%) 등 대형주도 일제히 밀렸다. 내일은 한글날 휴장이다."
+    ],
+    "source": "비즈니스코리아 · 이투데이",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278527"
+  },
+  "stories": [
+    {
+      "cat": "oil",
+      "title": "\"백악관, 중간선거 전 이란 타격안 요청\"… 브렌트 104달러",
+      "summary": "미 시사지 애틀랜틱이 익명 관리 2명을 인용해 백악관이 국방부에 이란 공격 옵션을 준비시켰다고 보도했다. 브렌트유는 4% 가까이 뛰어 배럴당 104달러대, WTI는 91.7달러로 올라섰다.",
+      "source": "AP(Click2Houston) · Trading Economics",
+      "url": "https://www.click2houston.com/business/2026/10/08/brent-crude-jumps-nearly-4-as-middle-east-tensions-flare-while-share-prices-retreat/",
+      "badge": "브렌트 ▲약 4%",
+      "dir": "up"
+    },
+    {
+      "cat": "oil",
+      "title": "호르무즈 유조선 공격 이달만 9건… IEA \"추가 방출 준비\"",
+      "summary": "영국 해사무역기구(UKMTO) 집계로 10월 들어 해협 내 유조선 공격이 9건에 이르렀다. 국제에너지기구는 필요하면 경유 위주로 비축유를 더 풀겠다고 했고, 루비오 국무장관은 원유 흐름이 거의 정상이라고 주장했다.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+      "badge": "이달 9건",
+      "dir": ""
+    },
+    {
+      "cat": "oil",
+      "title": "열대폭풍 '이사이아스'에 멕시코만 원유 4분의 1 멈춰",
+      "summary": "멕시코만 생산업체들이 하루 51만 배럴 넘는 원유 생산을 중단했다. 지역 생산량의 약 4분의 1로, 중동 리스크와 겹쳐 공급 불안을 키우고 있다.",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "badge": "51만 배럴/일",
+      "dir": ""
+    },
+    {
+      "cat": "us",
+      "title": "美 지수선물 일제히 약세… 유가가 인플레 걱정 되살려",
+      "summary": "한국시간 오후 기준 다우 선물 -0.66%, S&P500 선물 -0.35%, 나스닥 선물 -0.56%, 러셀2000 선물 -0.91%다. 변동성지수(VIX)는 15.6으로 소폭 올랐다.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html",
+      "badge": "나스닥선물 ▼0.56%",
+      "dir": "dn"
+    },
+    {
+      "cat": "us",
+      "title": "웹불 '中 연계' 논란에 로빈후드·퍼블릭 고객 빼가기",
+      "summary": "하원 위원회 보고서로 웹불 주가가 폭락한 다음 날, 로빈후드와 퍼블릭이 계좌 이전 고객에게 3% 보너스를 내걸며 공세에 나섰다.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-falling-premarket-mu-tsm-apld-ionq-hood-bull-sls-in-focus/cZDUfTgRBNT"
+    },
+    {
+      "cat": "biz",
+      "title": "TSMC 9월 매출 54.6% 급증, 그래도 개장 전 약세",
+      "summary": "AI 수요로 9월 매출이 1년 전보다 54.6% 늘었지만 TSMC와 마이크론 모두 개장 전 1% 넘게 밀렸다. 마이크론은 넷리스트 특허 사용료로 6억 달러를 내고 소송을 끝내기로 했다.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-falling-premarket-mu-tsm-apld-ionq-hood-bull-sls-in-focus/cZDUfTgRBNT",
+      "badge": "TSMC 9월 +54.6%",
+      "dir": "up"
+    },
+    {
+      "cat": "biz",
+      "title": "어플라이드 디지털 핀란드 1GW 계약, 아이온큐는 DARPA 최종 단계",
+      "summary": "데이터센터 업체 어플라이드 디지털은 매출 급증과 핀란드 최대 1기가와트 전력 확보 소식에 개장 전 강세다. 양자컴퓨터 아이온큐는 최대 3억 달러 규모 DARPA 프로그램 마지막 단계에 올랐다.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-falling-premarket-mu-tsm-apld-ionq-hood-bull-sls-in-focus/cZDUfTgRBNT"
+    },
+    {
+      "cat": "biz",
+      "title": "오늘 밤 펩시코 실적으로 3분기 시즌 막 올라",
+      "summary": "펩시코가 미 개장 전 분기 실적을 낸다. 팩트셋은 S&P500 기업의 3분기 이익이 29.5% 늘었을 것으로 추정해 기대치가 높은 편이다.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html",
+      "badge": "3Q EPS +29.5% 예상",
+      "dir": ""
+    },
+    {
+      "cat": "rates",
+      "title": "美 10년물 5.3% 안팎 고공행진… 월러 이사 발언 주목",
+      "summary": "10년물 금리는 아시아 시간 5.28~5.32% 사이에서 움직였다. 연준은 9월에 기준금리를 3.75~4.00%로 올린 상태다. 오늘 튀르키예에서 크리스 월러 이사가 연설한다.",
+      "source": "AP · Yahoo Finance",
+      "url": "https://www.click2houston.com/business/2026/10/08/brent-crude-jumps-nearly-4-as-middle-east-tensions-flare-while-share-prices-retreat/",
+      "badge": "10년물 5.3%대",
+      "dir": "up"
+    },
+    {
+      "cat": "rates",
+      "title": "오늘 밤 실업수당, 다음 주 CPI가 금리 방향 가늠자",
+      "summary": "한국시간 밤 9시 30분 주간 신규실업수당 청구건수가 나온다. 다음 주 14~15일에는 9월 소비자·생산자물가가 이어져 10월 말 FOMC 인상 여부를 가를 재료로 꼽힌다.",
+      "source": "Yahoo Finance · 이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2633988",
+      "badge": "21:30 KST",
+      "dir": ""
+    },
+    {
+      "cat": "kr",
+      "title": "원·달러 5일 연속 내려 한 달 만에 최저",
+      "summary": "환율은 1.9원 내린 1,338.5원에 마감했다. 달러 강세에도 반도체 수출 대금 매도 물량이 우위였다. 8월 경상수지는 461억 달러 흑자로 석 달째 400억 달러대를 이어갔다.",
+      "source": "이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2633988",
+      "badge": "1,338.5원",
+      "dir": "dn"
+    },
+    {
+      "cat": "kr",
+      "title": "코스닥 892선, 알테오젠 6% 급락",
+      "summary": "코스닥은 6.16포인트 내린 892.27로 마쳤다. 외국인은 640억 원 순매수했지만 기관이 1,068억 원을 팔았다. 시총 상위 알테오젠이 6.23% 떨어지며 지수를 눌렀다.",
+      "source": "비즈니스코리아",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278527",
+      "badge": "코스닥 ▼0.69%",
+      "dir": "dn"
+    },
+    {
+      "cat": "global",
+      "title": "닛케이 7만 선 내줘… 소프트뱅크 4% 넘게 하락",
+      "summary": "닛케이225는 1.42% 내린 69,042.11로 마감했다. 소프트뱅크그룹이 4.28% 빠지며 낙폭을 키웠다. 엔·달러는 158엔대 초반이다.",
+      "source": "TradingKey · AP",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262205710-samsung-skhynix-skhy-softbank-tradingkey",
+      "badge": "닛케이 ▼1.42%",
+      "dir": "dn"
+    },
+    {
+      "cat": "global",
+      "title": "中 증시 연휴 뒤 첫날 하락, 항셍도 1.3%↓",
+      "summary": "국경절 연휴로 일주일 쉰 상하이종합지수는 0.8% 내린 3,811.90에 거래를 마쳤다. 홍콩 항셍지수도 1.3% 떨어진 23,809.66이다.",
+      "source": "AP(Click2Houston)",
+      "url": "https://www.click2houston.com/business/2026/10/08/brent-crude-jumps-nearly-4-as-middle-east-tensions-flare-while-share-prices-retreat/",
+      "badge": "상하이 ▼0.8%",
+      "dir": "dn"
+    },
+    {
+      "cat": "global",
+      "title": "유럽 장중 약세, 은행주 3% 넘게 급락",
+      "summary": "STOXX600은 약 1%, 독일 DAX도 1% 안팎 내렸다. 유로존 은행지수는 3.38% 빠졌다. 프랑스 재정 우려로 유로는 1.12달러 부근까지 밀렸다.",
+      "source": "Trading Economics · AP",
+      "url": "https://tradingeconomics.com/germany/stock-market",
+      "badge": "STOXX600 ▼0.99%",
+      "dir": "dn"
+    },
+    {
+      "cat": "global",
+      "title": "비트코인 8만2천 달러대로 더 밀려, 금은 보합",
+      "summary": "비트코인은 1.23% 내린 8만2,888달러 선이다. 금은 0.1% 오른 온스당 4,145달러로 전날 하락 뒤 숨을 고르고 있다.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html",
+      "badge": "BTC ▼1.23%",
+      "dir": "dn"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "코스피",
+      "sub": "6,625.93",
+      "chg": "▼2.62%",
+      "dir": "dn"
+    },
+    {
+      "name": "코스닥",
+      "sub": "892.27",
+      "chg": "▼0.69%",
+      "dir": "dn"
+    },
+    {
+      "name": "원/달러",
+      "sub": "1,338.5원",
+      "chg": "▼1.9원",
+      "dir": "dn"
+    },
+    {
+      "name": "닛케이225",
+      "sub": "69,042.11",
+      "chg": "▼1.42%",
+      "dir": "dn"
+    },
+    {
+      "name": "상하이종합",
+      "sub": "3,811.90",
+      "chg": "▼0.8%",
+      "dir": "dn"
+    },
+    {
+      "name": "항셍",
+      "sub": "23,809.66",
+      "chg": "▼1.3%",
+      "dir": "dn"
+    },
+    {
+      "name": "STOXX600",
+      "sub": "장중",
+      "chg": "▼0.99%",
+      "dir": "dn"
+    },
+    {
+      "name": "S&P500 선물",
+      "sub": "7,825.00",
+      "chg": "▼0.35%",
+      "dir": "dn"
+    },
+    {
+      "name": "나스닥 선물",
+      "sub": "31,227.75",
+      "chg": "▼0.56%",
+      "dir": "dn"
+    },
+    {
+      "name": "美 국채 10년물",
+      "sub": "5.28~5.32%",
+      "chg": "—",
+      "dir": ""
+    },
+    {
+      "name": "브렌트유",
+      "sub": "$104.2",
+      "chg": "▲약 4%",
+      "dir": "up"
+    },
+    {
+      "name": "WTI",
+      "sub": "$91.7",
+      "chg": "▲3.9%",
+      "dir": "up"
+    },
+    {
+      "name": "금",
+      "sub": "$4,145",
+      "chg": "▲0.11%",
+      "dir": "up"
+    },
+    {
+      "name": "비트코인",
+      "sub": "$82,888",
+      "chg": "▼1.23%",
+      "dir": "dn"
+    }
+  ],
+  "movers": [
+    {
+      "tk": "삼성전자",
+      "nm": "3Q 최대 실적",
+      "chg": "−2.42%",
+      "dir": "dn"
+    },
+    {
+      "tk": "SK하이닉스",
+      "nm": "반도체 약세",
+      "chg": "−2.44%",
+      "dir": "dn"
+    },
+    {
+      "tk": "LG엔솔",
+      "nm": "대형주 매도",
+      "chg": "−2.85%",
+      "dir": "dn"
+    },
+    {
+      "tk": "알테오젠",
+      "nm": "코스닥",
+      "chg": "−6.23%",
+      "dir": "dn"
+    },
+    {
+      "tk": "9984",
+      "nm": "소프트뱅크G",
+      "chg": "−4.28%",
+      "dir": "dn"
+    },
+    {
+      "tk": "TSM",
+      "nm": "개장 전",
+      "chg": "약 −1%",
+      "dir": "dn"
+    },
+    {
+      "tk": "MU",
+      "nm": "넷리스트 합의",
+      "chg": "약 −1%",
+      "dir": "dn"
+    }
+  ],
+  "schedule": [
+    {
+      "d": "10/8",
+      "t": "목 밤",
+      "title": "펩시코 3분기 실적",
+      "note": "미 개장 전 · 실적 시즌 개막"
+    },
+    {
+      "d": "10/8",
+      "t": "목 21:30",
+      "title": "미 주간 신규실업수당 청구",
+      "note": "고용 둔화 여부"
+    },
+    {
+      "d": "10/8",
+      "t": "목",
+      "title": "월러 연준 이사 연설",
+      "note": "튀르키예 · 추가 인상 힌트"
+    },
+    {
+      "d": "10/9",
+      "t": "금",
+      "title": "한글날 국내 증시 휴장",
+      "note": "미국은 델타항공 실적"
+    },
+    {
+      "d": "10/14~15",
+      "t": "수·목",
+      "title": "미 9월 CPI·PPI",
+      "note": "10월 FOMC 앞 물가 확인"
+    },
+    {
+      "d": "10/29",
+      "t": "목 새벽",
+      "title": "10월 FOMC 결과",
+      "note": "현지 28일 · 추가 인상 여부"
+    }
+  ],
+  "sources": [
+    {
+      "name": "비즈니스코리아",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278527"
+    },
+    {
+      "name": "이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2633988"
+    },
+    {
+      "name": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262205710-samsung-skhynix-skhy-softbank-tradingkey"
+    },
+    {
+      "name": "AP (Click2Houston)",
+      "url": "https://www.click2houston.com/business/2026/10/08/brent-crude-jumps-nearly-4-as-middle-east-tensions-flare-while-share-prices-retreat/"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears"
+    },
+    {
+      "name": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-falling-premarket-mu-tsm-apld-ionq-hood-bull-sls-in-focus/cZDUfTgRBNT"
+    },
+    {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+    }
+  ]
+}

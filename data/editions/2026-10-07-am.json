@@ -1,0 +1,422 @@
+{
+  "id": "2026-10-07-am",
+  "summary": "AI·반도체 랠리로 S&P500·나스닥 장중 사상 최고. 美 10년물이 5.26%로 내려왔고, 코스피는 외국인 매도에 7,000선을 내줬다.",
+  "published_at": "2026-10-07T06:30:00+09:00",
+  "ticker": [
+    {
+      "k": "S&P500",
+      "v": "7,800선",
+      "chg": "▲0.58%",
+      "dir": "up"
+    },
+    {
+      "k": "나스닥",
+      "chg": "▲0.45%",
+      "dir": "up"
+    },
+    {
+      "k": "다우",
+      "chg": "▲0.49%",
+      "dir": "up"
+    },
+    {
+      "k": "러셀2000 ETF",
+      "chg": "▼0.71%",
+      "dir": "dn"
+    },
+    {
+      "k": "코스피",
+      "v": "6,941.39",
+      "chg": "▼0.89%",
+      "dir": "dn"
+    },
+    {
+      "k": "코스닥",
+      "v": "919.92",
+      "chg": "▲2.98%",
+      "dir": "up"
+    },
+    {
+      "k": "원/달러",
+      "v": "1,343.6",
+      "chg": "▼0.4원",
+      "dir": "dn"
+    },
+    {
+      "k": "美10년물",
+      "v": "5.262%",
+      "chg": "▼4bp",
+      "dir": "dn"
+    },
+    {
+      "k": "브렌트유",
+      "v": "≈$100",
+      "chg": "▲",
+      "dir": "up"
+    },
+    {
+      "k": "WTI",
+      "v": "≈$89",
+      "chg": "▲",
+      "dir": "up"
+    },
+    {
+      "k": "비트코인",
+      "v": "$86,000+",
+      "chg": "▲",
+      "dir": "up"
+    }
+  ],
+  "lead": {
+    "cat": "us",
+    "time": "10월 6일(현지) 마감",
+    "title": "AI·반도체가 끌어올린 뉴욕증시, S&P500·나스닥 장중 사상 최고",
+    "dek": "미 국채금리가 2002년 이후 최고 수준에서 한발 물러서자 대형 기술주로 매수세가 몰렸다. 중소형주는 오히려 내리며 쏠림이 뚜렷했다.",
+    "chips": [
+      {
+        "k": "S&P500",
+        "v": "▲0.58%",
+        "dir": "up"
+      },
+      {
+        "k": "나스닥",
+        "v": "▲0.45%",
+        "dir": "up"
+      },
+      {
+        "k": "다우",
+        "v": "▲0.49%",
+        "dir": "up"
+      },
+      {
+        "k": "러셀2000 ETF",
+        "v": "▼0.71%",
+        "dir": "dn"
+      }
+    ],
+    "body": [
+      "상승은 반도체가 이끌었다. 마벨테크놀로지가 약 6%, 브로드컴이 약 4%, AMD가 약 3% 올랐다. S&P500은 오전장에서 신고가를 새로 쓴 뒤 일부 반납했지만 7,800선 위에서 장을 마쳤다.",
+      "미 10년물 금리는 5.262%로 4bp 넘게 내려 고금리 부담을 덜었다. 시장의 다음 관심사는 한국시간 8일 새벽 공개되는 FOMC 의사록이다."
+    ],
+    "source": "블록미디어",
+    "url": "https://www.blockmedia.co.kr/archives/1148419"
+  },
+  "stories": [
+    {
+      "cat": "us",
+      "title": "엔비디아, 시가총액 6조 달러 눈앞",
+      "summary": "장 초반 1% 넘게 오르며 어떤 기업도 밟아보지 못한 시총 6조 달러에 바짝 다가섰다. 전날에도 사상 최고가를 기록했다.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026",
+      "badge": "NVDA ▲",
+      "dir": "up"
+    },
+    {
+      "cat": "rates",
+      "title": "10월 금리인상 확률 17%로 급락… 12월은 여전히 유력",
+      "summary": "9월 고용이 예상보다 약했고 8월 근원 PCE도 3.0%로 예상치 3.3%를 밑돌았다. 페드워치 기준 10월 인상 확률은 1주 전 36%에서 17%로 내려왔다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "badge": "인상확률 17%",
+      "dir": "dn"
+    },
+    {
+      "cat": "oil",
+      "title": "이란 \"7개 조건 충족 전엔 호르무즈 안 연다\"",
+      "summary": "이란 의회의장 갈리바프가 미국이 조건을 받아들여야 해협을 열겠다고 재확인했다. 영국해사무역기구는 10월 2일 이후 호르무즈·아덴만에서 하루 1건 이상 선박 공격을 보고했다.",
+      "source": "CNBC · Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable"
+    },
+    {
+      "cat": "kr",
+      "title": "외국인 1.7조 매도에 코스피 7,000선 반납… 코스닥은 3% 급등",
+      "summary": "개천절 연휴 뒤 첫 거래일, 상승 출발했지만 대형 반도체 약세와 외국인 매도에 6,941.39로 마감했다. 코스닥은 2.98% 오른 919.92.",
+      "source": "비즈니스코리아",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278306",
+      "badge": "▼0.89%",
+      "dir": "dn"
+    },
+    {
+      "cat": "biz",
+      "title": "슈나이더일렉트릭, PTC 226억 달러에 통째로 인수",
+      "summary": "전액 현금 거래 발표에 PTC가 33.5% 급등했다. 같은 날 C.H.로빈슨도 물류업체 RXO를 58억 달러에 사들이기로 해 RXO가 22.5% 올랐다.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-oct-6-2026-055600786.html",
+      "badge": "PTC ▲33.5%",
+      "dir": "up"
+    },
+    {
+      "cat": "biz",
+      "title": "구글, 컨스텔레이션과 20년 원전 전력 계약",
+      "summary": "890MW 규모 신규 원전 용량을 PJM 전력망에 공급하는 계약이다. 미국 최대 원전 운영사 컨스텔레이션에너지가 12.3% 뛰었다. AI 데이터센터의 전력 확보 경쟁이 이어지고 있다.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026",
+      "badge": "CEG ▲12.3%",
+      "dir": "up"
+    },
+    {
+      "cat": "rates",
+      "title": "연준, 9월 '3년 만의 인상'… 위원 대다수 연내 추가 인상 전망",
+      "summary": "9월 회의에서 만장일치로 0.25%p 올렸다. 위원 19명 중 16명이 연내 최소 한 번 더 인상을 예상했다. 다음 회의는 10월 27~28일.",
+      "source": "Charles Schwab",
+      "url": "https://www.schwab.com/learn/story/fomc-meeting",
+      "badge": "3.75~4.00%",
+      "dir": ""
+    },
+    {
+      "cat": "oil",
+      "title": "브렌트유 100달러 안팎… 아람코 \"재고 회복에 2년\"",
+      "summary": "브렌트유는 배럴당 100달러 근처, WTI는 89달러 수준에서 소폭 올랐다. 아람코는 원유 재고를 다시 쌓는 데 2년이 걸릴 수 있고 호르무즈를 통한 경유 공급도 부족하다고 경고했다.",
+      "source": "investingLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news/",
+      "badge": "브렌트 ≈$100",
+      "dir": "up"
+    },
+    {
+      "cat": "oil",
+      "title": "공격 속에서도 걸프 원유 수출은 전쟁 전 수준 회복",
+      "summary": "우회 수송로와 미국 호위 셔틀 방식 덕분이다. 걸프국이 이란에 통행료를 내고 있다는 의혹도 나온다. 다만 정제유는 여전히 하루 약 300만 배럴이 모자란다.",
+      "source": "Al Jazeera · Foreign Policy",
+      "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz"
+    },
+    {
+      "cat": "oil",
+      "title": "트럼프, 이란 휴전안 거부… 재공격은 중간선거 이후 시사",
+      "summary": "지난주 이란의 휴전 제안을 거부했다. 한편 미군 폭격기는 테러 음모 우려로 영국 페어퍼드 기지에서 모두 빠졌다.",
+      "source": "Foreign Policy · CNBC",
+      "url": "https://foreignpolicy.com/2026/10/01/oil-strait-hormuz-iran-trump-war-gulf-gas-diesel-prices/"
+    },
+    {
+      "cat": "biz",
+      "title": "맥케슨·CD&R, 옵션케어헬스 인수 막바지 보도",
+      "summary": "부채 포함 50억 달러가 넘는 인수 협상이 마무리 단계라는 보도에 미국 최대 독립 주입치료 업체 옵션케어헬스가 폭등했다.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026",
+      "badge": "OPCH ▲32.9%",
+      "dir": "up"
+    },
+    {
+      "cat": "kr",
+      "title": "원·달러 환율, 한 달 만에 최저",
+      "summary": "0.4원 내린 1,343.6원에 마감해 9월 10일 이후 가장 낮았다. 외환시장은 당분간 1,330~1,380원 박스권을 예상한다.",
+      "source": "이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2632939",
+      "badge": "1,343.6원",
+      "dir": "dn"
+    },
+    {
+      "cat": "global",
+      "title": "일본은행, 10월 연속 인상 가능성에 시선",
+      "summary": "우에다 총재의 발언에 시장이 주목하고 있다. 호주는 기준금리 인상 이후 소비자심리지수가 4.7% 떨어진 80.4를 기록했다.",
+      "source": "investingLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news/"
+    },
+    {
+      "cat": "global",
+      "title": "비트코인 8만6,000달러 돌파",
+      "summary": "AI 랠리와 국채금리 하락에 위험자산 선호가 살아났다. 씨티는 비트코인 목표가를 11만3,000달러로 올렸다.",
+      "source": "블록미디어 · investingLive",
+      "url": "https://www.blockmedia.co.kr/archives/1148419",
+      "badge": "BTC ▲",
+      "dir": "up"
+    },
+    {
+      "cat": "kr",
+      "title": "대통령 \"금융기관 공격에 AI 사용 정황\"",
+      "summary": "국내 금융기관을 겨냥한 공격에 AI가 쓰인 것으로 보인다는 언급이 나왔다. 금융권 보안 대응이 쟁점으로 떠오를 전망이다.",
+      "source": "Tech Startups",
+      "url": "https://techstartups.com/2026/10/06/top-tech-news-today-october-6-2026-amazon-amd-apple-deepseek-google-uber-more/"
+    },
+    {
+      "cat": "biz",
+      "title": "우버, 단체 케이터링 플랫폼 ezCater 23억 달러에 인수",
+      "summary": "기업 고객 대상 음식 배달 사업을 키우려는 행보다.",
+      "source": "Tech Startups",
+      "url": "https://techstartups.com/2026/10/06/top-tech-news-today-october-6-2026-amazon-amd-apple-deepseek-google-uber-more/"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "S&P500",
+      "sub": "7,800선 · 장중 최고",
+      "chg": "▲0.58%",
+      "dir": "up"
+    },
+    {
+      "name": "나스닥",
+      "sub": "장중 최고",
+      "chg": "▲0.45%",
+      "dir": "up"
+    },
+    {
+      "name": "다우",
+      "sub": "",
+      "chg": "▲0.49%",
+      "dir": "up"
+    },
+    {
+      "name": "러셀2000 ETF",
+      "sub": "",
+      "chg": "▼0.71%",
+      "dir": "dn"
+    },
+    {
+      "name": "코스피",
+      "sub": "6,941.39",
+      "chg": "▼0.89%",
+      "dir": "dn"
+    },
+    {
+      "name": "코스닥",
+      "sub": "919.92",
+      "chg": "▲2.98%",
+      "dir": "up"
+    },
+    {
+      "name": "원/달러",
+      "sub": "1,343.6원",
+      "chg": "▼0.4원",
+      "dir": "dn"
+    },
+    {
+      "name": "美 국채 10년물",
+      "sub": "5.262%",
+      "chg": "▼4bp",
+      "dir": "dn"
+    },
+    {
+      "name": "브렌트유",
+      "sub": "≈ $100",
+      "chg": "▲<1%",
+      "dir": "up"
+    },
+    {
+      "name": "WTI",
+      "sub": "≈ $89",
+      "chg": "▲<1%",
+      "dir": "up"
+    }
+  ],
+  "movers": [
+    {
+      "tk": "PTC",
+      "nm": "피인수",
+      "chg": "+33.5%",
+      "dir": "up"
+    },
+    {
+      "tk": "OPCH",
+      "nm": "인수설",
+      "chg": "+32.9%",
+      "dir": "up"
+    },
+    {
+      "tk": "RXO",
+      "nm": "피인수",
+      "chg": "+22.5%",
+      "dir": "up"
+    },
+    {
+      "tk": "CEG",
+      "nm": "구글 원전계약",
+      "chg": "+12.3%",
+      "dir": "up"
+    },
+    {
+      "tk": "MRVL",
+      "nm": "반도체",
+      "chg": "≈+6%",
+      "dir": "up"
+    },
+    {
+      "tk": "AVGO",
+      "nm": "반도체",
+      "chg": "≈+4%",
+      "dir": "up"
+    },
+    {
+      "tk": "AMD",
+      "nm": "반도체",
+      "chg": "≈+3%",
+      "dir": "up"
+    },
+    {
+      "tk": "ILMN",
+      "nm": "차익실현",
+      "chg": "−5.9%",
+      "dir": "dn"
+    },
+    {
+      "tk": "VTR",
+      "nm": "리츠 약세",
+      "chg": "−3.2%",
+      "dir": "dn"
+    }
+  ],
+  "schedule": [
+    {
+      "d": "10/8",
+      "t": "목 03:00",
+      "title": "FOMC 9월 회의 의사록",
+      "note": "추가 인상 속도에 대한 힌트"
+    },
+    {
+      "d": "10/9",
+      "t": "금",
+      "title": "한글날, 국내 증시 휴장",
+      "note": "미국장은 정상 거래"
+    },
+    {
+      "d": "10/29",
+      "t": "목 03:00",
+      "title": "FOMC 금리 결정",
+      "note": "10월 27~28일(현지) 회의"
+    }
+  ],
+  "sources": [
+    {
+      "name": "블록미디어",
+      "url": "https://www.blockmedia.co.kr/archives/1148419"
+    },
+    {
+      "name": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable"
+    },
+    {
+      "name": "Foreign Policy",
+      "url": "https://foreignpolicy.com/2026/10/01/oil-strait-hormuz-iran-trump-war-gulf-gas-diesel-prices/"
+    },
+    {
+      "name": "Charles Schwab",
+      "url": "https://www.schwab.com/learn/story/fomc-meeting"
+    },
+    {
+      "name": "investingLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news/"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-oct-6-2026-055600786.html"
+    },
+    {
+      "name": "비즈니스코리아",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278306"
+    },
+    {
+      "name": "이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2632939"
+    },
+    {
+      "name": "Tech Startups",
+      "url": "https://techstartups.com/2026/10/06/top-tech-news-today-october-6-2026-amazon-amd-apple-deepseek-google-uber-more/"
+    }
+  ]
+}
